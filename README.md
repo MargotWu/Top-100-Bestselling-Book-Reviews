@@ -11,11 +11,11 @@
 | Header                    | Description                                            | Data Type                   |
 | ------------------------- | ------------------------------------------------------ | --------------------------- |
 | `book name`               |The title of the book                              | text                        |
-| `reviewer title`          |The title of the book review.| number                      |
+| `reviewer title`          |The title of the book review.                      | text                     |
 | `reviewer`                |The name of the person who has written a review for the book| text                        |
-| `reviewer rating`         |The rating given by the reviewer for the book, on a scale of 1 to 5.| binary                      |
-| `reviewer desciption`     |The text description of the review given| binary                      |
+| `reviewer rating`         |The rating given by the reviewer for the book, on a scale of 1 to 5.| integer                     |
+| `reviewer desciption`     |The text description of the review given           | text                      |
 | `is_verified'             |Indicates whether the review is verified as a genuine customer review.| boolean                     |
-| `date`                    |The timestamp indicates the date when the review was posted.| binary                      |
+| `date`                    |The timestamp indicates the date when the review was posted.|text                       |
 | `timestamp`               |The timestamp indicates when the review was posted.| text                        |
-| `ASIN`                    |Amazon Standard Identification Number assigned to products on Amazon.| text                        |
+| `ASIN`                    |Amazon Standard Identification Number assigned to products on Amazon.| integer                       |
