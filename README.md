@@ -34,6 +34,6 @@
 | `book price`              |The price of the book in USD                                | decimal                  |
 | `rating`                 |The overall rating of the book, on a scale of 1 to 5         | decimal                    |
 | `author`                 |The author of the book                                       | string                     |
-| `year of publication;    |The year in which the book was published                     | integer                      |
+| `year of publication'    |The year in which the book was published                     | integer                      |
 | `genre`                   |The genre or category to which the book belongs             | string                      |
 | `url`                     |The URL link to the book on Amazon's platform               |  string                     |
