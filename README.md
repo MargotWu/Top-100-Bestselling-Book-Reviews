@@ -1,6 +1,6 @@
 # Top-100-Bestselling-Book-Reviews
 
-## customer.csv
+## customer reviews.csv
 
 - **What is this?**: This dataset offers an in-depth look into Amazon's top 100 Bestselling books along with their customer reviews, Ratings, Price etc. Whether you're a book enthusiast, data scientist, or just curious about the latest literary trends, this dataset provides a window into the world of popular reading.{Scrapped dataset on November 2023}
 - **Source(s) & Methodology**: (https://www.kaggle.com/datasets/anshtanwar/top-200-trending-books-with-reviews/data)
